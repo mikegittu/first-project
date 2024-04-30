@@ -2,4 +2,4 @@
 First github project repository on github
 
 Adding another line in the project repository to observe the behaviour
-This line was modified locally
+Another line was added to perform conflict resolution
