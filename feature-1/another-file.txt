@@ -1,2 +1,5 @@
-another file was added in another-file.txt
+This line was replaced in feature-2 branch.
 adding another line to another-file.txt
+
+another line was added in feature-2 branch.
+
